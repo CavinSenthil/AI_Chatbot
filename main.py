@@ -1,7 +1,7 @@
 from openai import OpenAI
 import os
 
-#Implemented an AI cahatbot using openrouter
+#Implemented an AI chatbot
 api_key = os
 
 client = OpenAI(
